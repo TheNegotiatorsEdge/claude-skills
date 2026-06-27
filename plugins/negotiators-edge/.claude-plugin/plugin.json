@@ -1,0 +1,11 @@
+{
+  "name": "negotiators-edge",
+  "description": "Coaching for negotiations, deals, pitches, tricky emails, and high-stakes conversations using Tim Castle's MAGNETIC Influence framework. Scores a situation across eight trust-based principles and returns specific, usable guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tim Castle",
+    "url": "https://www.thenegotiatorsedge.ai"
+  },
+  "homepage": "https://www.thenegotiatorsedge.ai",
+  "license": "Proprietary"
+}
